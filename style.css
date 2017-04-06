@@ -1,0 +1,148 @@
+
+
+.imgleft
+{
+    width: 60%;
+}
+
+.imgere
+{
+    width: 40%;
+    float: right;
+    margin-top: 167px;
+}
+
+.txts
+{
+    font-size: 60px;
+    margin-left: 60%;
+    position: absolute;
+    z-index: 2;
+    margin-top: 40%;
+}
+
+.number
+{
+    float: right;
+    padding-top: 14px;
+}
+
+.tomenu
+{
+    clear: left;
+    float: left;
+    margin-left: 230px;
+    margin-top: -30px;
+}
+
+.imglogo
+{
+    float: left;
+}
+
+.nave
+{
+}
+
+.tomenu2
+{
+    margin-left: 20px;
+}
+
+.imggirl
+{
+    margin-left: 40%;
+    z-index: 300;
+}
+
+.gfhn
+{
+    color: #ff4b4b;
+}
+
+.txts2
+{
+    font-size: 50px;
+    padding-left: 190px;
+}
+
+.textepit
+{
+    margin-left: 10%;
+    font-size: 2000%;
+    position: absolute;
+    line-height: 1;
+}
+
+.divcatal
+{
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+.divcat
+{
+    background-color: #999797;
+    height: 300px;
+    padding-top: 50px;
+    padding-left: 30px;
+    width: 95%;
+}
+
+.divcup
+{
+    margin-top: 50px;
+    padding-left: 50px;
+    height: 300px;
+}
+
+.buttnmore
+{
+    margin-top: 40px;
+    margin-left: 30px;
+    background-color: #b1b1b1;
+    margin-bottom: 90px;
+}
+
+.foot
+{
+    background-color: #c5c5c5;
+    padding-right: 70px;
+    padding-left: 15%;
+}
+
+.socbtn
+{
+    font-size: 20px;
+    float: right;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: -50px;
+}
+
+.divfoot
+{
+    width: 70%;
+    padding-top: 30px;
+}
+
+.jum
+{
+    height: 400px;
+    background-color: #c3c3c3;
+}
+
+.nazvcatrg
+{
+    padding-left: 140px;
+}
+
+.product
+{
+    height: 200px;
+    background-color: #c1c1c1;
+    width: 200px;
+}
+
